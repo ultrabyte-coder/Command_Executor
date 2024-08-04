@@ -1,0 +1,20 @@
+{
+    "Command Executor": "Исполнитель команд",
+    "Execute Selected Commands": "Выполнить выбранные команды",
+    "Language": "Язык",
+    "English": "Английский",
+    "Russian": "Русский",
+    "Info": "Информация",
+    "No commands selected.": "Не выбраны команды.",
+    "Execution Report": "Отчет о выполнении",
+    "Command sent for execution.": "Команда отправлена на выполнение.",
+    "Error": "Ошибка",
+    "apt update": "Обновить список пакетов. /< sudo apt update >/",
+    "apt upgrade -y": "Обновить все пакеты. /< sudo apt upgrade -y >/",
+    "apt clean": "Удалить .deb файлы для пакетов, которые больше не установлены. /< sudo apt clean >/",
+    "apt autoclean": "Удалить устаревшие .deb файлы. /< sudo apt autoclean >/",
+    "apt autoremove -y": "Удалить ненужные пакеты. /< sudo apt autoremove -y >/",
+    "journalctl --vacuum-time=3d": "Удалить журнальные записи старше 3 дней. /< sudo journalctl --vacuum-time=3d >/",
+    "journalctl --vacuum-size=100M": "Удалить журнальные записи, чтобы освободить место на диске. /< sudo journalctl --vacuum-size=100M >/",
+    "systemd-tmpfiles --clean": "Очистить временные файлы. /< sudo systemd-tmpfiles --clean >/"
+}

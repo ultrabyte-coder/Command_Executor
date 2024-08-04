@@ -1,0 +1,21 @@
+{
+    "Command Executor": "Command Executor",
+    "Execute Selected Commands": "Execute Selected Commands",
+    "Language": "Language",
+    "English": "English",
+    "Russian": "Russian",
+    "Info": "Info",
+    "No commands selected.": "No commands selected.",
+    "Execution Report": "Execution Report",
+    "Command sent for execution.": "Command sent for execution.",
+    "Error": "Error",
+    "apt update": "Update the package list. /< sudo apt update >/",
+    "apt upgrade -y": "Upgrade all packages. /< sudo apt upgrade -y >/",
+    "apt clean": "Remove .deb files for packages that are no longer installed. /< sudo apt clean >/",
+    "apt autoclean": "Remove .deb files for packages that are no longer installed. /< sudo apt autoclean >/",
+    "apt autoremove -y": "Remove packages that are no longer needed. /< sudo apt autoremove -y >/",
+    "journalctl --vacuum-time=3d": "Remove journal entries older than 3 days. /< sudo journalctl --vacuum-time=3d >/",
+    "journalctl --vacuum-size=100M": "Remove journal entries to free up disk space. /< sudo journalctl --vacuum-size=100M >/",
+    "systemd-tmpfiles --clean": "Clean up temporary files. /< sudo systemd-tmpfiles --clean >/"
+}
+
