@@ -21,7 +21,7 @@
 2. Скачайте или клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/ultranumb-coder/Command_Executor
+   git clone https://github.com/ultrabyte-coder/Command_Executor
    cd Command_Executor
    
 ### Настройка терминала
@@ -107,7 +107,7 @@ This application allows users to select commands for execution and send them to 
 2. Download or clone the repository:
 
    ```bash
-   git clone https://github.com/ultranumb-coder/Command_Executor
+   git clone https://github.com/ultrabyte-coder/Command_Executor
    cd Command_Executor
    
 ### Terminal Setup
